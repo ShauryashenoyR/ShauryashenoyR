@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShauryashenoyR
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning <html> ,: css; and javascript;
+- 🌱 I’m currently learning <html ,: css; and javascript()>
 
 <!---
 ShauryashenoyR/ShauryashenoyR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
